@@ -7,8 +7,8 @@ import os
 @st.cache_data
 def load_data():
     try:
-        d_path = r'C:\Users\Tc\Desktop\District_64_Verified_Final.csv'
-        c_path = r'C:\Users\Tc\Desktop\Crop_Master_KS_Updated.csv'
+        d_path = 'District_64_Verified_Final.csv'
+        c_path = 'Crop_Master_KS_Updated.csv'
         
         districts = pd.read_csv(d_path, encoding='latin1')
         crops = pd.read_csv(c_path, encoding='latin1')
