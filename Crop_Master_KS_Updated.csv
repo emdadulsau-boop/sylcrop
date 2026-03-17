@@ -1,0 +1,11 @@
+Crop Name,Summer_Tolerant,Target AEZ,KS1_MaxTemp,KS2_MinTemp,KS3_MinPH,KS4_MaxPH,KS5_MaxRain,KS6_LandType,Opt_TempH,Opt_TempL,Opt_Rain,Daylength,Salt_Tolerance_dS_m,Suited_Soil_Texture
+Brinjal,1,"8, 9, 11, 12, 19, 23, 28, 29",38,10,5,8.2,2500,"Highland, Medium Highland",32,20,250,Day-neutral,2.5,"Silty Loam, Clay Loam"
+Tomato,1,"8, 9, 11, 19, 23, 25, 28, 29",35,8,5,7.8,2200,Highland,30,15,250,Day-neutral,2.5,"Sandy Loam, Loam"
+Potato,0,"1, 3, 4, 8, 9, 11, 15, 16, 17, 19, 22, 23, 25, 26, 27, 29, 30",32,5,4.5,7.8,400,Highland,25,10,250,Day-neutral,1.7,"Sandy Loam, Loam"
+Cauliflower,0,"2, 3, 8, 9, 11, 19, 26, 27, 28",32,8,5,7.8,1600,"Highland, Medium Highland",25,10,250,Day-neutral,2,"Loam, Clay Loam"
+Cabbage,1,"8, 9, 11, 19, 25, 26, 27, 28",32,5,5,8,1600,"Highland, Medium Highland",24,8,250,Day-neutral,1.8,"Loam, Clay Loam"
+Radish,1,"1, 2, 8, 9, 11, 23, 25",34,8,5,7.8,1500,"Highland, Medium Highland",25,10,250,Day-neutral,1.2,"Sandy Loam, Loam"
+Carrot,1,"1, 2, 3, 11, 25, 26",32,8,5,7.5,1500,"Highland, Medium Highland",24,10,250,Day-neutral,1,Loam
+Chili,,,,,,,,,,,,,,
+Onion,,,,,,,,,,,,,,
+Garlic,,,,,,,,,,,,,,
