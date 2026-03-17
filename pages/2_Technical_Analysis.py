@@ -76,8 +76,8 @@ def run_ai_insights(d_row, crop_name, total, aez_match, temp_score, texture_scor
 @st.cache_data
 def load_data():
     try:
-        districts = pd.read_csv(r'C:\Users\Tc\Desktop\District_64_Verified_Final.csv', encoding='latin1')
-        crops = pd.read_csv(r'C:\Users\Tc\Desktop\Crop_Master_KS_Updated.csv', encoding='latin1')
+        districts = pd.read_csv('District_64_Verified_Final.csv', encoding='latin1')
+        crops = pd.read_csv('Crop_Master_KS_Updated.csv', encoding='latin1')
         districts.columns = districts.columns.str.strip()
         crops.columns = crops.columns.str.strip()
         return districts, crops
