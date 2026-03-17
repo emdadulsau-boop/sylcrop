@@ -182,11 +182,5 @@ def main():
                 else:
                     st.success("✅ Favorable conditions for most standard agricultural operations.")
 
-import os
-st.write("Current Directory:", os.getcwd())
-st.write("Files in Root:", os.listdir("."))
-if os.path.exists("pages"):
-    st.write("Files in pages folder:", os.listdir("pages"))
-
 if __name__ == "__main__":
     main()
