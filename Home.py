@@ -126,7 +126,7 @@ def main():
             """, unsafe_allow_html=True)
             
             if st.button("Proceed to Technical Crop Analysis ➡️", use_container_width=True):
-               st.switch_page("pages/2_Technical_Analysis.py")
+               st.switch_page("/pages/2_Technical_Analysis.py")
 
         with col2:
             st.subheader("Field Metadata")
