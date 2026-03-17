@@ -1,2 +1,8 @@
 streamlit
 pandas
+requests
+fpdf2
+numpy
+scikit-learn
+statsmodels
+scipy
